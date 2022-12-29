@@ -1,6 +1,6 @@
 <h1 align='center'>🍅 Pomodoro Cli</h1>
 
-<h4 align: 'center'>A simple command line solution on using the Pomodoro technique.</h4>
+<h4 align='center'>A simple command line solution on using the Pomodoro technique.</h4>
 
 <br>
 
