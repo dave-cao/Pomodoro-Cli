@@ -54,7 +54,7 @@ pip install -r requirements.txt
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Go into the `config.py` file and configure the settings to your liking. The default is 50 minute pomodoro with 10 minute short breaks and a 30 minute long break. File paths can also be configured here.
+1. Go into the `config.py` file and configure the settings to your liking. The default is a 50 minute pomodoro with 10 minute short breaks and a 30 minute long break. File paths can also be configured here.
 
 ![Pomo Config Image](img/image3.png)
 
@@ -66,6 +66,11 @@ python3 main.py
 ![Pomo Menu Image](img/image0.png)
 ![Pomo Session Image](img/image2.png)
 ![Daily Stats Image](img/image1.png)
+
+3. Exit application
+```
+ctl + c
+```
 
 _For a more comprehensive example of using this application, refer to this [video](example_video_here)_
 
