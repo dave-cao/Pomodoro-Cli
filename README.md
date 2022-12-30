@@ -110,6 +110,7 @@ Don't forget to give the project a star! Thanks again!
 - Email: sirdavidcao@gmail.com
 - [Youtube](https://www.youtube.com/channel/UCEnBPbnNnqhQIIhW1uLXrLA)
 - [Linkedin](https://www.linkedin.com/in/david-cao99/)
+- Personal Website: https://davidcao.xyz/
 - Project Link - https://github.com/dave-cao/Pomodoro-Cli
 
 
