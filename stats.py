@@ -165,8 +165,11 @@ def display_streak():
     print(f"Your current streak is: {current_streak}")
     print(f"Your max streak is: {data.streak.max()}\n")
 
-    index_max = today_stats.streak.idxmax()
-    print(data.loc[index_max])
+    try:
+        index_max = today_stats.streak.idxmax()
+        print(data.loc[index_max])
+    except ValueError:
+        print("Complete a pomodoro to increase your streak!")
 
 
 def display_hours_studied():
