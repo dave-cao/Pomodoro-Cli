@@ -6,6 +6,9 @@
 
 ![Pomo Usage Gif](assets/pomo.gif)
 
+- [Live](https://youtu.be/7A1-TioB7hs) demonstration video.
+- [Demo](https://replit.com/@KingCao/Pomodoro-Cli?v=1) the Project.
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -72,7 +75,7 @@ python3 main.py
 ctl + c
 ```
 
-_For a more comprehensive example of using this application, refer to this [video](example_video_here)_
+_For a more comprehensive example of using this application, refer to this [video](https://youtu.be/7A1-TioB7hs)_
 
 
 
