@@ -47,7 +47,7 @@ python -m ensurepip --upgrade
 
 1. Clone the repo
 ```sh
-git clone git@github.com:dave-cao/Pomodoro-Cli.git
+git clone https://github.com/dave-cao/Pomodoro-Cli.git
 ```
 3. Install pip packages
 ```sh
